@@ -1,0 +1,1 @@
+export default function App(){return (<div style={{padding:'20px'}}><h1>Food Menu Memory</h1><p>第一版已部署中。</p><ul><li>收藏菜牌</li><li>Google Map連結</li><li>想食清單</li><li>搜尋功能</li></ul></div>)}
